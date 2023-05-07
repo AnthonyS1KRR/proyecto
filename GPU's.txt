@@ -1,0 +1,20 @@
+GEN 20
+    Titan RTX,2499
+    GeForce RTX 2080 Ti,999
+    GeForce RTX 2080 SUPER,699
+    GeForce RTX 2080,699
+    GeForce RTX 2070 SUPER,499
+    GeForce RTX 2070,499
+    GeForce RTX 2060 SUPER,399
+    GeForce RTX 2060,349
+
+GEN 30
+    rtx 3090 ti
+    Nvidia GeForce RTX 3090: $1,499 (lanzada en septiembre de 2020)
+    Nvidia GeForce RTX 3080: $699 (lanzada en septiembre de 2020)
+    Nvidia GeForce RTX 3070: $499 (lanzada en octubre de 2020)
+    Nvidia GeForce RTX 3060 Ti: $399 (lanzada en diciembre de 2020)
+    Nvidia GeForce RTX 3060: $329 (lanzada en febrero de 2021)
+    Nvidia GeForce RTX 3080 Ti: $1,199 (lanzada en junio de 2021)
+    Nvidia GeForce RTX 3050 Ti: $399 (lanzada en octubre de 2021)
+    Nvidia GeForce RTX 3050: $239 (lanzada en octubre de 2021)
